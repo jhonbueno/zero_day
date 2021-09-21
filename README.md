@@ -9,3 +9,6 @@ Tareas:
 * Crear README.md
 * Hacer modificaciones
 * Enviar el archivo con commit al repositorio
+
+
+Some new staff that I have to add to my local machine.
